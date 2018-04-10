@@ -1,0 +1,102 @@
+
+main{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .98rem;
+	bottom: .98rem;
+	background-color: #fff;
+	overflow-y: scroll;	
+}
+header{
+	display: flex;
+	justify-content: space-between;	
+}
+.header_left{
+	font-family: 'iconfont'; 
+	font-size: 0.4rem;
+}
+.title{
+	font-size: 0.4rem;	
+	color: white;	
+}
+.header_right{
+	font-family: 'iconfont'; 
+	font-size: 0.4rem;
+}
+#banner{	
+	padding: 0.21rem 0.24rem 0;
+	width: 100%;
+	height: 0.9rem;
+	font-size: 0.25rem;
+	background-color: #fff;
+	display: flex;
+	justify-content: space-between;	
+}
+.banner_btn{
+	height: 1.06rem;
+	font-weight: bold;
+	color: #8E8E8E;
+}
+.banner_name2{
+	/* color: #EC5A50; */
+}
+.content{
+	width: 100%;
+	padding: 0 0.24rem;
+}
+.content_btn{
+	width: 100%;
+	height: 1.75rem;
+	border-bottom: 0.02rem solid #EFF1F2;
+	padding-top: 0.2rem;
+}
+.content_left{
+	width: 5.3rem;
+	float: left;
+	padding: 0 0.19rem 0 0;
+}
+.content_title{
+	font-size: 0.32rem;
+	height: 0.72rem;
+}
+.btn_foot{
+	width: 100%;
+	height: 0.39rem;
+	margin-top: 0.25rem;
+	line-height: 0.39rem;
+}
+.content_date{
+	font-size: 0.18rem;
+	float: left;
+	color: #8E8E8E;
+}
+.btn_liuyan{
+	float: right;
+	font-size: 0.17rem;
+	color: #8E8E8E;
+}
+.btn_fuhao{
+	font-family: 'iconfont';
+	font-size: 0.3rem;
+}
+.content_right{
+	line-height: 1.75rem;
+	float: left;
+}
+.content_right img{
+	width: 1.4rem;
+	height: 1.41rem;
+}
+.btn_liuyan2{
+	
+	width: 0.6rem;
+	height: 0.32rem;
+	border: 1px solid #FF8639;
+	border-radius: 0.05rem;
+	font-size: 0.22rem;
+	line-height: 0.32rem;
+	text-align: center;
+	color: #FF8639;
+}

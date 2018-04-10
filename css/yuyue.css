@@ -1,0 +1,45 @@
+body{
+	color: #8E8E8E;
+}
+main{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .98rem;
+	bottom: .98rem;
+	background-color: #F4F4F4;
+	overflow-y: scroll;	
+}
+header{
+	text-align: center;
+}
+.title{
+	font-size: 0.4rem;	
+	color: white;	
+}
+.main_btn{
+	margin-top: 0.35rem;
+	width: 100%;
+	background-color: #fff;	
+}
+.main_xinxi{
+	width: 100%;
+	height: 0.98rem;
+	border-bottom: 2px solid #F5F5F5;
+	line-height: 0.98rem;
+}
+.main_word {
+	margin-left: 0.3rem;
+	font-size: 0.25rem;
+}
+.main_foot{
+	margin-top: 0.96rem;
+	width: 100%;
+	height: 0.98rem;
+	background-color: #fff;
+	text-align: center;
+	line-height: 0.98rem;
+	font-size: 0.3rem;
+	color: #DA7B42;
+}

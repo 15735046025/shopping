@@ -1,0 +1,143 @@
+
+main{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: .98rem;
+	background-color: #F4F4F4;
+	overflow-y: scroll;	
+}
+.banner{
+	width: 100%;
+	height: 3.19rem;
+	background-color: #FDAD3C;
+	padding: 0 0.39rem;
+}
+.banner_top{
+	display: flex;
+	justify-content: space-between;	
+	height: 1rem;
+	width: 100%;
+	font-family: 'iconfont';
+	font-size: 0.3rem;
+	line-height: 1rem;
+	color: #fff;
+}
+.banner_top_right{
+	font-size: 0.4rem;
+}
+.banner_foot{
+	width: 100%;
+	height: 2.19rem;
+	line-height: 2.19rem;
+}
+.banner_circle{
+	font-family: 'iconfont';
+	width: 1.4rem;
+	height: 1.4rem;
+	border-radius: 50%;
+	background-color: #F1F1F1;
+	border: 0.04rem solid rgba(245, 248, 248, .6);
+	line-height: 1.4rem;
+	text-align: center;
+	font-size: 0.6rem;
+	color: #AAAAAA;
+	float: left;
+	margin-top: 0.4rem;
+}
+.banner_load{
+	float: left;
+	margin-left: 0.13rem;
+	font-size: 0.28rem;
+	color: #fff;
+}
+.banner_load a{
+	color:#fff;
+}
+.fenlei{
+	width: 100%;
+	height: 1.74rem;
+	background-color: #fff;	
+}
+.fenlei_left{
+	width: 6.82rem;
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+	float: left;
+	padding: 0 0 0 0.16rem;
+}
+.fenlei_btn{
+	width: 1.04rem;
+	height: 100%;
+	padding: 0.4rem 0 0.46rem 0;
+	text-align: center;
+	float: left;
+}
+.fenlei_bt{
+	font-family: 'iconfont';
+	width: 100%;
+	height: 0.41rem;
+	text-align: center;
+	font-size: 0.41rem;
+}
+.fenlei_name{
+	font-size: 0.24rem;
+	margin-top: 0.23rem;
+}
+.fenlei_right{
+	font-family: 'iconfont';
+	height: 100%;
+	font-size: 0.2rem;
+	line-height: 1.74rem;
+	float: left;
+}
+.fenlei2{
+	margin-top: 0.2rem;
+}
+.fenlei_price{
+	font-size: 0.3rem;
+}
+.tuigaung{
+	width: 5.6rem;
+	height: 1.74rem;
+	line-height: 1.74rem;
+	text-align: center;
+	font-size: 0.24rem;
+	float: left;
+	border-right:  0.01rem solid #F3F3F3;	
+}
+.fenlei_btn3{
+	margin-left: 0.18rem;
+}
+.tuigiang_icon{
+	font-family: 'iconfont';
+	font-size: 0.3rem;
+	margin-right: 0.05rem;
+}
+.guangzhu{
+	width: 100%;
+	background-color: #fff;
+	overflow: hidden;
+	margin-top: 0.2rem;
+}
+.guangzhu_btn{
+	margin-left: 0.55rem;
+}
+.guangzhu_btn2{
+	margin-left: 0.68rem;
+}
+.fenlei_color1{
+	color: #FC606B;
+}
+.fenlei_color2{
+	color: #F78B26;
+}
+.fenlei_color3{
+	color: #F76B26;
+}
+.fenlei_color4{
+	color: #00B485;
+}

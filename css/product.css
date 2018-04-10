@@ -1,0 +1,157 @@
+
+main{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .98rem;
+	bottom: .98rem;
+	background-color: #F4F4F4;
+	overflow-y: scroll;	
+}
+header{
+	/* display: flex;
+	justify-content: space-between; */	
+}
+.header_left{
+	font-family: 'iconfont'; 
+	font-size: 0.3rem;
+	float: left;
+}
+header a{
+	color:#fff;
+}
+.title{
+	font-size: 0.4rem;	
+	color: white;	
+}
+.title span{	
+	width: 1.3rem;
+	height: 100%;
+	text-align: center;
+	float: left;
+}
+.header_right{
+	font-family: 'iconfont';
+	font-size: 0.3rem;
+	float: right;
+}
+.banner_btn{	
+	height: 100%;
+}
+.title .header_product{
+	height: 0.97rem;
+	color: #fff;
+	margin-left: 1.8rem;
+	border-bottom: 0.04rem solid #FFF;
+}
+.header_desc{
+	opacity: .6;
+}
+.content{
+	width: 100%;	
+}
+.content_img{
+	width: 7.2rem;
+	height: 7.51rem;
+}
+.content_btn{
+	padding:  0 0.24rem;
+	width: 100%;
+	height: 2.2rem;
+	background-color:  #fff;
+}
+.content_title{
+	height: 1.09rem;
+	line-height: 1.09rem;
+	width: 100%;
+	font-size: 0.29rem;
+	color: black;
+}
+.cntent_date{
+	font-size: 0.27rem;
+}
+.content_yunfei{
+	color: #8E8E8E;
+	font-size: 0.25rem;
+	margin-top: 0.25rem;
+}
+.yunfei_left{
+	float: left;
+}
+.yunfei_right{
+	float: right;
+}
+.content_box{
+	width: 100%;
+	height: 2.94rem;
+	margin-top: 0.16rem;
+	background-color: #fff;
+	padding:  0 0.24rem;
+}
+.box_title{
+	height: 0.96rem;
+	line-height: 0.96rem;
+	font-size: 0.3rem;
+}
+.box_foot{
+	padding-top:  0.36rem;
+	width: 100%;
+	height: 1.65rem;
+}
+.box_foot_left{
+	width: 2rem;
+	height: 1.3rem;
+	line-height:1.3rem; 
+	float: left;
+}
+.box_foot_left img{
+	width: 2rem;
+	height: 1.3rem;
+}
+.box_foot_right{
+	height: 100%;
+	width: 4.5rem;
+	margin-left: 0.21rem;
+	float: left;
+	color: #838383;
+	padding-top: 0.1rem;
+}
+.box_foot_word{	
+	font-size: 0.25rem;
+	margin-bottom: 0.12rem;
+}
+footer{
+	padding: 0;
+}
+.footer_left{
+	width: 50%;
+	height: 100%;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-size: 0.25rem;
+	float: left;
+	padding-top: 0.05rem;
+}
+.footer_left_btn{
+	width: 0.6rem;
+	height: 100%;
+	margin-left: 1.5rem;
+}
+.footer_right{
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-color: #F93939;
+	font-size: 0.33rem;
+	line-height: 0.98rem;
+	text-align: center;
+	color: #fff;
+}
+.xin{
+	width: 100%;
+	height: 0.5rem;
+	font-family: 'iconfont';
+	font-size: 0.5rem;
+	color: #C1C1C1;
+}

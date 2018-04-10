@@ -1,0 +1,107 @@
+
+main{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .98rem;
+	bottom: 0;
+	background-color: #F4F4F4;
+	overflow-y: scroll;	
+}
+header a{
+	color:#fff;
+}
+.content{
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 1.88rem;
+	bottom: 0;
+	overflow-y: scroll;
+}
+.content::-webkit-scrollbar{
+	display: none;
+}
+header{
+	display: flex;
+	justify-content: space-between;	
+}
+.header_left{
+	font-family: 'iconfont'; 
+	font-size: 0.36rem;
+}
+.title{
+	font-size: 0.36rem;	
+	color: white;	
+}
+.header_right{
+	font-family: 'iconfont'; 
+	font-size: 0.3rem;
+}
+.banner_btn{
+	height: 100%;
+}
+#banner{	
+	padding: 0 0.24rem ;
+	width: 100%;
+	height: 0.9rem;
+	font-size: 0.26rem;
+	background-color: #fff;
+	display: flex;
+	justify-content: space-between;	
+	position: fixed;
+	top: 0.98rem;
+	left: 0;
+	border-bottom:  0.01rem solid #E9E9E9;
+}
+.banner_btn{
+	height: 100%;
+	line-height: 0.9rem;
+}
+.banner_name2{
+	color: #EC5A50;
+}
+.tuijian{
+	width: 100%;	
+}
+.tujian_btn{
+	width: 3.53rem;
+	height: 5.9rem;
+	background-color: #fff;
+	float: left;
+	margin-bottom: 0.14rem;
+}
+.tujian_btn img{
+	width: 100%;
+	height: 4.99rem;
+}
+.tuijian_name{
+	width: 100%;
+	height: 0.5rem;
+	text-align: center;
+	line-height: 0.5rem	;
+	font-size: 0.25rem;
+	display: block;
+}
+.tuijian_price{
+	font-size: 0.17rem;
+	width: 1.59rem;
+	color: red;
+	margin-left: 0.22rem;
+	float: left;
+	display: block;
+}
+.tuijian_xiaoliang{
+	width: 1.3rem;
+	height: 0.26rem;
+	font-size: 0.22rem;
+	margin-left: 0.4rem;
+	display: inline-block;
+	float: left;
+	color: #838383;
+	display: block;
+}
+.tujian_btn2{
+	margin-left: 0.14rem;
+}
